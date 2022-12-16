@@ -1,0 +1,166 @@
+
+*{
+    margin: 0;
+    box-sizing: border-box;  
+}
+.whole-container{
+background-image: url('../img/Group\ 17.png');
+}
+.logoju{
+    margin-top: 60px;
+    margin-left: 93px;
+    width: 212px;
+    height: 139px;
+
+    
+}
+#heading1{
+    margin-top: 140px;
+    margin-left: 110px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+}
+#heading{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    margin-top: 0;
+    line-height: 48px;
+
+}
+#flex1{
+    background-color: #FFE67C ;
+    height: 1025px;
+    width: 303px;
+    margin-left: 65px;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+.spanjuu2{
+    height: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    padding-left: 20px;
+    }
+.buttn1 :hover{
+  background-color: #295F2D;
+  color: white;
+  padding: 10px;
+  border: 0px solid #295F2D;
+  border-radius: 20px;
+}
+.buttn1{
+    border-style: hidden;
+    background-color: #FFE67C;
+  }
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+.profile-imageju{
+    padding-top: 100px;
+    width:50%;
+    margin: auto;
+    margin-bottom: 15px;
+
+}
+.flex1-heading{
+    padding-top: 30px;
+    width:144px;
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 50px;
+
+}
+#main1{
+    display: flex;
+    gap:0;
+}
+#main2{
+    display: flex;
+    column-gap: 40px;
+
+}
+.flex-spanju{
+    display: flex;
+    line-height: 1.5;
+}
+.flex-spanjuu{
+    display: flex;
+    line-height: 3.0;
+    padding-left: 20px;
+}
+.spanju1{
+    flex-direction: row;
+    cursor: pointer;
+}
+.spanju img{
+    padding-right: 20px;
+}
+#flex2{
+    display: flex;
+    column-gap: 30px;
+    margin-top: 30px;
+    flex-direction: row;
+}
+.spanju2{
+height: 30px;
+font-family: 'Poppins', sans-serif;
+font-weight: 600;
+font-size: 15px;
+padding-left: 20px;
+}
+.flex-spanju1{
+    display: flex;
+    width: 129px;
+    margin: auto;
+    padding-top: 380px;
+} 
+/*Center Icon*/
+.center-iconju{
+    width: 100px;
+    margin:auto;
+    margin-top: 40px;
+}
+.to-donateju{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+}
+/*second flex section*/
+.to-restaurantju{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    margin-top: 40px;
+}
+.buttonju button{
+width:30%;
+background-color:#295F2D;
+border-color: #295F2D;
+padding: 10px 10px;
+color: white;
+border-radius: 20px;
+text-transform:uppercase;
+font-size: 14px;
+font-weight: 500;
+font-family: 'Poppins', sans-serif;
+margin-top: 30px;
+cursor: pointer;
+}
+.pickupju{
+    display: flex;
+}
+.paragraph{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 1.0;
+}
