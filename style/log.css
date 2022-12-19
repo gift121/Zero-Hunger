@@ -64,10 +64,12 @@ body{
     background-color: var(--imageBackground);
     color: #fff;
     border: 1px solid var(--eclipse);
-    margin-left: 1em;
+    margin-left: 2em;
     outline: none;
     text-align: center;
-    border-radius: 20px;
+    border-radius: 10px;
+    height: 30px;
+    /* width: 80px; */
     /* width: 100px; */
 }
 .nav-features button a{

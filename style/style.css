@@ -29,7 +29,7 @@ height:100vh;
 }
 .navbar-links a{
     text-decoration: none;
-    color: #101010;
+    color: #fff;
     font-size: 20px;
     height: 30px;
     font-family: 'Poppins', sans-serif;
@@ -45,6 +45,7 @@ margin-top: 40px;
 }
 .login-box, button{
     height: 30px;
+    border-radius: 10px;
     border:none;
     background-color: #FFE67C;
     color:rgb(32, 0, 0)

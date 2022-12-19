@@ -18,7 +18,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 2em;
+    padding: 3em;
     height: 120px;
     
 }
@@ -28,7 +28,7 @@
 .navbar-links{
     display: flex;
     flex-direction: row;
-    gap: 60px;
+    gap: 30px;
     margin-top: 45px;
 }
 .navbar-links li{
