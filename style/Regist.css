@@ -18,12 +18,12 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 3em;
-    height: 120px;
+    padding: 2em;
+    height: 105px;
     
 }
 .nav-features img{
-    width: 13git 0px;
+    width: 130px;
 }
 .navbar-links{
     display: flex;
