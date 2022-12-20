@@ -260,6 +260,15 @@ height: 250px;
     display: flex;
     gap:5px;
 }
+.new{
+    border: 1px solid #fff;
+    background-color: #fff;
+    color: #101;
+    border-radius: 3px;
+    font-size: 13px;
+    width: 40px;
+    text-align: center;
+}
 .footer-flex{
     display: flex;
     justify-content: space-evenly;
