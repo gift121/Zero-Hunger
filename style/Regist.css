@@ -16,14 +16,14 @@
 }
 .nav-features{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     padding: 3em;
     height: 120px;
     
 }
 .nav-features img{
-    width: 100px;
+    width: 13git 0px;
 }
 .navbar-links{
     display: flex;
